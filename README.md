@@ -20,8 +20,15 @@ diabetic-retinopathy-detection/
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 * **Python 3.x**
 * Pandas, NumPy, Scikit-learn
 * Flask (for API deployment)
 * Matplotlib / Seaborn (visualizations)
+
+
+## Dataset & Privacy
+
+* **Original Source:** Patient records collected at **Hospital Sultan Abdullah, Puncak Alam (Malaysia)**.  
+* **De-identification:** All personally identifiable information (names, IDs, addresses, etc.) was **removed prior to use**.  
+* Only **aggregated clinical features** (e.g., age, BMI, blood pressure, glucose levels, etc.) remain to comply with privacy requirements.
