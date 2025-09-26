@@ -12,8 +12,8 @@ It contains everything needed to reproduce the data-science pipeline—from clea
 
 ## Repository Structure
 diabetic-retinopathy-detection/
-├─ dataset/ # Cleaned dataset used for training/testing
-├─ images/ # Sample outputs, graphs, confusion matrix, and mobile app
-├─ source/ # Model training, Flask API, and prediction scripts
-├─ requirements.txt # Python dependencies
-└─ README.md # Project documentation
+- dataset/ # Cleaned dataset used for training/testing
+- images/ # Sample outputs, graphs, confusion matrix, and mobile app
+- source/ # Model training, Flask API, and prediction scripts
+- requirements.txt # Python dependencies
+- README.md # Project documentation
