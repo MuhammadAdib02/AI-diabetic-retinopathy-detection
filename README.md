@@ -17,3 +17,11 @@ diabetic-retinopathy-detection/
 - source/ # Model training, Flask API, and prediction scripts
 - requirements.txt # Python dependencies
 - README.md # Project documentation
+
+---
+
+## ⚙️ Tech Stack
+* **Python 3.x**
+* Pandas, NumPy, Scikit-learn
+* Flask (for API deployment)
+* Matplotlib / Seaborn (visualizations)
